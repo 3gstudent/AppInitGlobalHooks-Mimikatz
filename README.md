@@ -10,7 +10,7 @@ Updated to x64 and Changed Calc.exe To Mimikatz.exe
 
 ### My Update:
 
-Rewrite AppInit.reg.
+Rewrite AppInit.reg
 
-Create AppInit32.reg on Win7x86 and AppInit64.reg on Win7x64.
+Create AppInit32.reg on Win7x86 and AppInit64.reg on Win7x64
   
