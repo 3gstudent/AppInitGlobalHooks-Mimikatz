@@ -6,4 +6,11 @@ http://www.codeproject.com/Articles/49319/Easy-way-to-set-up-global-API-hooks?di
 
 Updated to x64 and Changed Calc.exe To Mimikatz.exe
 
+---
 
+### My Update:
+
+Rewrite AppInit.reg.
+
+Create AppInit32.reg on Win7x86 and AppInit64.reg on Win7x64.
+  
